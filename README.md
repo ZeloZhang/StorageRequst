@@ -12,3 +12,5 @@ We are going to process them through __cascade level3 filters__ and __cascade fi
 We are going to keep the directory structure in /data/sim, which means we are going to create subdirectory such as {datasetID}/0000000-0000999/ for every thousand files. 
 
 And for finallevel, in each subdirectory ({datasetID}/0000000-0000999/ and so on), we are going to create three subdirectories, which are final_cascade, final_hybrid, final_muon.
+
+As for the expiration date, I think we can request for one year at first. Can I request an extension if necessary in the future?
